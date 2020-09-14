@@ -31,10 +31,18 @@ Here's a walkthrough of implemented user stories:
 
 This gif demonstrates that my todo app has the ability to add new todo listings and remain consistent afterward.
 
+
+<img src="walkthrough1_android.gif" alt="walkthrough1_android"/>
+
+
 **Removing Todo Items**
 
 
 This gif demonstrates that my todo app also has the ability to remove todo listings without issues.
+
+
+<img src="walkthrough2_android.gif" alt="walkthrough2_android"/>
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
