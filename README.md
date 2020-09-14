@@ -26,7 +26,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-...
+**Adding Todo Items**
+
+
+This gif demonstrates that my todo app has the ability to add new todo listings and remain consistent afterward.
+
+**Removing Todo Items**
+
+
+This gif demonstrates that my todo app also has the ability to remove todo listings without issues.
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
