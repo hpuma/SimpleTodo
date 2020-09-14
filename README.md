@@ -50,6 +50,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+- There were small setbacks because the setup instructions weren't exact and it was necessary to work around it.
+- Although my understanding is quite minimal, I still have yet to understand my code.
+- Hopefully by adding more features and consistently improving my app, I will be able to understand the android structure...
+
 ## License
 
     Copyright [2020] [Henry Puma]
