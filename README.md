@@ -26,6 +26,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+
+<img src="welcome-todo.gif" alt="welcome-todo"/>
+
+
+
 **Adding Todo Items**
 
 
